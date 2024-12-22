@@ -1,7 +1,0 @@
-The following are commands for github commit instructions
-
-	git status 		------->	(view all files changed)
-	git add . 		------->	(makes all changed files ready for commit)
-	git commit -am "" 	------->	(commits changes and enter comments about commit)
-	git push origin main 	------->	(pushes all commits to repository)
-	git pull origin main 	------->  	(pulls all commits to local storage or environment)
