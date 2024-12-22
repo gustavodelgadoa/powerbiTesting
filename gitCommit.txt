@@ -5,4 +5,6 @@ The following are commands for github commit instructions
 	git commit -am "" 	------->	(commits changes and enter comments about commit)
 	git push origin main 	------->	(pushes all commits to repository)
 	git pull origin main 	------->  	(pulls all commits to local storage or environment)
+
+Access Token for Repo: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
 	
